@@ -76,7 +76,7 @@ header section:nth-of-type(2) {
 }
 
 header section:nth-of-type(2) article {
-    width: 65%;
+    width: 45%;
     padding-left: 10%;
     padding-top: 55vh;
     flex-direction: column;
@@ -103,8 +103,9 @@ header section:nth-of-type(2) article a {
 
 .people {
     height: 85vh;
-    padding-right: 8%;
     padding-top: 10vh;
+    position: absolute;
+    padding-left: 43%;
 }
 
 /* --------------------------------- */

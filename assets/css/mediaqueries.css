@@ -16,7 +16,8 @@
     }
 
     header section:nth-of-type(2) article {
-        padding-top: 20vh;
+        padding-top: 15vh;
+        width: 60%;
     }
 
     header section:nth-of-type(2) article p img {
@@ -28,10 +29,10 @@
     }
 
     .people {
-
-        height: 30vh;
-        padding-bottom: 8vh;
-        padding-right: 15%;
+        height: 35vh;
+        padding-left: 50%;
+        padding-top: 0;
+        padding-bottom: 13vh;
     }
 
     /* ------------------------------ */
