@@ -1,0 +1,169 @@
+@media only screen and (max-width: 600px) {
+    #background-img {
+        height: 35vh;
+    }
+
+    html {
+        font-size: 7px;
+    }
+
+    header section:nth-of-type(1) article {
+        padding-top: 2vh;
+    }
+
+    header section:nth-of-type(1) article div {
+        padding-left: 7%;
+    }
+
+    header section:nth-of-type(2) article {
+        padding-top: 20vh;
+    }
+
+    header section:nth-of-type(2) article p img {
+        height: 3vh;
+    }
+
+    header section:nth-of-type(2) article a {
+        padding-top: 5vh;
+    }
+
+    .people {
+
+        height: 30vh;
+        padding-bottom: 8vh;
+        padding-right: 15%;
+    }
+
+    /* ------------------------------ */
+
+    main section:nth-of-type(1) img {
+        padding-top: 35vh;
+    }
+
+    main section:nth-of-type(2) {
+        flex-direction: column;
+        padding-top: 20vh;
+        padding-left: 0;
+    }
+
+    main section:nth-of-type(2) h2 {
+        width: 80%;
+    }
+
+    main section:nth-of-type(2) h2 img {
+        height: 5vh;
+    }
+
+    main section:nth-of-type(2) p {
+        line-height: 3vh;
+        padding: 5vh 0 0 0;
+        width: 80%;
+    }
+
+    main section:nth-of-type(3) h2 {
+        width: 80%;
+        padding-top: 15vh;
+        padding-bottom: 15vh;
+    }
+
+    .iconText {
+        flex-direction: column;
+        padding: 0 0 0 10%;
+    }
+
+    .iconText article {
+        width: 90%;
+        padding-bottom: 10vh;
+    }
+
+    .iconText article img {
+        height: 3.5vh;
+    }
+
+    .iconText article h3 {
+        padding-top: 1vh;
+    }
+
+    .iconText article p {
+        padding-top: 2vh;
+        line-height: 3vh;
+    }
+
+    main section:nth-of-type(6) div {
+        padding-top: 15vh;
+        width: 80%;
+    }
+
+    main section:nth-of-type(6) div p {
+        padding-top: 5vh;
+        line-height: 3vh;
+    }
+
+    .img_left {
+        flex-direction: column;
+    }
+
+    .img_left article {
+        padding-left: 0;
+    }
+
+    .img_left article h1 {
+        font-size: 7rem;
+        padding-top: 2vh;
+    }
+
+    .img_left article img {
+        padding-top: 2vh;
+    }
+
+    .img_left article p {
+        line-height: 3vh;
+    }
+
+    .onlyMediaQueries {
+        display: block;
+    }
+
+    .deleteForQueries {
+        display: none;
+    }
+
+    .img_right {
+        flex-direction: column;
+    }
+
+    .img_right article {
+        padding-left: 0;
+    }
+
+    .img_right article h1 {
+        font-size: 7rem;
+        padding-top: 2vh;
+    }
+
+    .img_right article img {
+        padding-top: 2vh;
+    }
+
+    .img_right article p {
+        line-height: 3vh;
+    }
+
+    /* ----------------------------- */
+
+    footer section:nth-of-type(1) {
+        padding-top: 20vh;
+    }
+
+    footer section:nth-of-type(1) form input:nth-of-type(1) {
+        padding: 2vh 8%;
+    }
+
+    footer section:nth-of-type(1) form input:nth-of-type(2) {
+        padding: 1.5vh 3%;
+    }
+
+    footer section:nth-of-type(3) p {
+        padding-top: 20vh;
+    }
+}
